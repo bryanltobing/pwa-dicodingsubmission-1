@@ -1,0 +1,18 @@
+.bgcolor-nav {
+  background-color: #2e3f51;
+}
+.bgbutton {
+  background-color: #ff5483;
+}
+.bgbutton:hover {
+  background-color: #ff326a;
+}
+.bgfooter {
+  background-color: #f0f0f0;
+}
+.text-color {
+  color: #6c757d;
+}
+.icon-color {
+  color: #00c5c6;
+}
